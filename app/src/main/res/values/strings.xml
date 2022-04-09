@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Home_Work_Lection_4_laba</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="send_random_broadcast">Send Random Broadcast</string>
+    <string name="random_num_empty">Random Num Empty</string>
+</resources>
